@@ -4,7 +4,7 @@ public class Area {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//this is just sample code
+		//sudhir you are just starting
 		Scanner in=new Scanner(System.in);
 		int n=in.nextInt();
 		double h=in.nextInt();
